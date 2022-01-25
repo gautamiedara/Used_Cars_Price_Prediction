@@ -2,7 +2,7 @@
 
 ### Business Objective
 To obtain the re-sale value of used car in UK based on different criteria's like the model number, the age of the car, fuel type, mileage etc.
-Predicting the price of used car will help the car dealers understand the optimal value of the car for their dealingslike buying and reselling.
+Predicting the price of used car will help the car dealers understand the optimal value of the car for their dealings like buying and reselling.
 ### Data Description
 
 The dataset contains information about used audi cars and their market price It contains columns such as:
